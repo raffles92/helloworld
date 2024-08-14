@@ -1,0 +1,10 @@
+body{
+    background: black;
+    color: white;
+}
+
+header{
+    font-size: 34;
+    text-align: center;
+    background: blue;
+}
